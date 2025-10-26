@@ -84,5 +84,8 @@
     <ClCompile Include="7-12 两个数的简单计算器.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-14 求整数段和.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
