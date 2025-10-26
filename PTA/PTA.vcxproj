@@ -34,6 +34,7 @@
     <ClCompile Include="7-1 厘米换算英尺英寸.c" />
     <ClCompile Include="7-10 计算工资.c" />
     <ClCompile Include="7-11 分段计算居民水费.c" />
+    <ClCompile Include="7-12 两个数的简单计算器.c" />
     <ClCompile Include="7-2 然后是几点.c" />
     <ClCompile Include="7-3 逆序的三位数.c" />
     <ClCompile Include="7-4 BCD解密.c" />

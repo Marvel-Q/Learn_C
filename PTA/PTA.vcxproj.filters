@@ -81,5 +81,8 @@
     <ClCompile Include="7-11 分段计算居民水费.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-12 两个数的简单计算器.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
