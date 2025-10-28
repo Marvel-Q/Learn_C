@@ -128,10 +128,13 @@
     <ClCompile Include="华氏度转摄氏度.c" />
     <ClCompile Include="打印加法表.c" />
     <ClCompile Include="打印等腰三角形.c" />
+    <ClCompile Include="打印菱形.c" />
     <ClCompile Include="找质数.c" />
     <ClCompile Include="斐波那契数列.c" />
     <ClCompile Include="最大公约数.c" />
+    <ClCompile Include="水仙花数.c" />
     <ClCompile Include="百钱百鸡.c" />
+    <ClCompile Include="空瓶换汽水.c" />
     <ClCompile Include="第二重要极限.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

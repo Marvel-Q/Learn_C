@@ -13,11 +13,11 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\Homework">
+      <UniqueIdentifier>{5ece6165-b60a-4119-8d67-ff297a882fee}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="BMI.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="百钱百鸡.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -33,9 +33,6 @@
     <ClCompile Include="斐波那契数列.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="华氏度转摄氏度.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="三角形面积.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -43,6 +40,21 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="最大公约数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="水仙花数.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BMI.c">
+      <Filter>源文件\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="华氏度转摄氏度.c">
+      <Filter>源文件\Homework</Filter>
+    </ClCompile>
+    <ClCompile Include="打印菱形.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="空瓶换汽水.c">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
