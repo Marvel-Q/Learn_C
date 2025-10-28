@@ -90,5 +90,8 @@
     <ClCompile Include="7-15 计算圆周率.c">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="7-13 日K蜡烛图.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
