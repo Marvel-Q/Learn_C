@@ -16,6 +16,12 @@
     <Filter Include="源文件\Homework">
       <UniqueIdentifier>{5ece6165-b60a-4119-8d67-ff297a882fee}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\Homework\第7周">
+      <UniqueIdentifier>{17ab92e5-d046-4438-a37d-118818ffc957}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="源文件\Homework\第8周">
+      <UniqueIdentifier>{383ff74f-1db2-4db7-b83c-511a47f62160}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="百钱百鸡.c">
@@ -33,9 +39,6 @@
     <ClCompile Include="斐波那契数列.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="三角形面积.c">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="找质数.c">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -45,17 +48,29 @@
     <ClCompile Include="水仙花数.c">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="BMI.c">
-      <Filter>源文件\Homework</Filter>
-    </ClCompile>
-    <ClCompile Include="华氏度转摄氏度.c">
-      <Filter>源文件\Homework</Filter>
-    </ClCompile>
     <ClCompile Include="打印菱形.c">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="空瓶换汽水.c">
       <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BMI.c">
+      <Filter>源文件\Homework\第7周</Filter>
+    </ClCompile>
+    <ClCompile Include="华氏度转摄氏度.c">
+      <Filter>源文件\Homework\第7周</Filter>
+    </ClCompile>
+    <ClCompile Include="三角形面积.c">
+      <Filter>源文件\Homework\第7周</Filter>
+    </ClCompile>
+    <ClCompile Include="数位和.c">
+      <Filter>源文件\Homework\第8周</Filter>
+    </ClCompile>
+    <ClCompile Include="闰年.c">
+      <Filter>源文件\Homework\第8周</Filter>
+    </ClCompile>
+    <ClCompile Include="互换.c">
+      <Filter>源文件\Homework\第8周</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
